@@ -6,7 +6,7 @@ WikiData [has a hard timeout of 60 seconds](https://en.wikibooks.org/wiki/SPARQL
 
 ## Data location
 
-The data can be found in the <a href="https://github.com/pganssle/wikidata_names/tree/pages/data">data folder</a>. The most recent version is [`2021-04-16-wikidata-names-01.json.bz2`](data/2021-04-16-wikidata-names-01.json.bz2). This is the first published version, and contains data scraped from people born between 1850 and 2020.
+The data can be found in the <a href="https://github.com/pganssle/wikidata_names/tree/pages/data">data folder</a>. The most recent version is [`2021-04-23-wikidata-names-00.json.bz2`](data/2021-04-23-wikidata-names-00.json.bz2). This is the first published version, and contains data scraped from people born between 1850 and 2020.
 
 ## Data Format
 The data is collected in a large compressed JSON file. The top level of the JSON file has two entries: `metadata` and `data`. Additional entries may be added to the top level or to `metadata` at any time.
